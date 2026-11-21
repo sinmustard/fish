@@ -1,6 +1,6 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.2",
+    "versionCode":  4,
+    "versionName":  "1.3",
     "apk":  "fisch-auto.apk",
-    "notes":  "신화급처럼 날뛰는 물고기에 강한 새 릴 조종 방식"
+    "notes":  "물고기가 막대 밖에 있을 때(막대가 갈색) 조종을 놓쳐서 멈추던 버그 수정"
 }
