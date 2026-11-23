@@ -1,6 +1,6 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.5",
+    "versionCode":  7,
+    "versionName":  "1.6",
     "apk":  "fisch-auto.apk",
-    "notes":  "올림피아(Olympian) 판 지원: 분홍/자주색으로 빛나는 막대·빛 번쩍임·줄어든 막대 인식, 막대가 잠깐 안 보여도 트랙이 있으면 계속 조종"
+    "notes":  "막대가 하얗지 않게(분홍/갈색) 시작한 릴도 찾아요. 입질을 못 찾을 때 원인을 기록해요"
 }
