@@ -1,6 +1,6 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.6",
+    "versionCode":  8,
+    "versionName":  "1.7",
     "apk":  "fisch-auto.apk",
-    "notes":  "막대가 하얗지 않게(분홍/갈색) 시작한 릴도 찾아요. 입질을 못 찾을 때 원인을 기록해요"
+    "notes":  "폰: 오른쪽 아래 낚싯대 버튼을 눌러 찌를 던지도록 바꿨어요"
 }
